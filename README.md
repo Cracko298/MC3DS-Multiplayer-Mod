@@ -1,5 +1,5 @@
 # Minecraft-3DS-Multiplayer-Update
-- Star, and (possibly) fork this repo to stay up-to-date on my Multiplayer Update for MC-3DS.
+- Star, and (possibly) [Fork](https://github.com/Cracko298/Minecraft-3DS-Multiplayer-Update/fork) this repo to stay up-to-date on my Multiplayer Update for MC-3DS.
 
 ## Planned Features:
 - Preventing Hacking/Cheating with a custom script on a AWS Server that scans for adnormal behaviors.
