@@ -6,6 +6,7 @@
 - Multiplayer over WiFi (Mostly finished although needs alot of ironing around the edges).
 
 ## Requirements:
+- Hacked/Modfied/Homebrewed [New Nintendo 3DS](https://en.wikipedia.org/wiki/New_Nintendo_3DS) (Any "New" Reversion) Console with [Luma3DS CFW](https://github.com/LumaTeam/Luma3DS) 11.0+.
 - Opened 3DS Debug Port.
 - PC with Wireshark.
 - Internet Connection.
