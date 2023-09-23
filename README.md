@@ -13,8 +13,8 @@
 - Other players ;)
 
 ## Download(s):
-- **Client-Side [Download]() (If you want to connect to other Players' Servers).
-- **Server-Side [Download]() (If you would like to Host the server from your own console).** ***Limits extend to Minecraft-3DS Itself.***
+- **Client-Side [Download]() (If you want to connect to other Players' Servers).**
+- **Server-Side [Download]() (If you would like to Host the server from your own console).**
 
 **Notice: This is NOT a download (dummy links for now).**
 
