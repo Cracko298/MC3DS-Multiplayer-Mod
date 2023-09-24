@@ -28,4 +28,4 @@
 #### [batchbatch298@outlook.com]() - Buisness Email.
 #### [rfddfd55667@gmail.com]() - Personal Email.
 #### [@CracktusH](https://twitter.com/CracktusH) - X (Formerly Twitter) Username.
-#### [@cracko298](https://www.instagram.com/cracko298/) - Facebook/Instagram Username
+#### [@cracko298](https://www.instagram.com/cracko298/) - Facebook/Instagram Username.
