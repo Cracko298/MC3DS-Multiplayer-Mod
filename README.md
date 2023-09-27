@@ -2,7 +2,7 @@
 - [Star](https://github.com/Cracko298/Minecraft-3DS-Multiplayer-Update/stargazers), and (possibly) [Fork](https://github.com/Cracko298/Minecraft-3DS-Multiplayer-Update/fork) this repo to stay up-to-date on my Multiplayer Update for MC-3DS.
 - This really isn't a "Mod" rather just reading and transferring packets to and from LAN Connections using a few Tools + Custom-Scripts/Launchers.
 - It captures 3DS LAN Packets, and Transfers them over WiFi to a AWS Server that handles the transfers to all other clients.
-
+ 
 ## How does it work?
 - It captures 3DS LAN Packets, and Transfers them over WiFi via PC to a AWS Server that handles the transfers to all other clients.
 - Clients will take that information and broadcast it over the network and then relays it back to the Server.
