@@ -8,7 +8,7 @@
 - Clients will take that information and broadcast it over the network and then relays it back to the Server.
 
 ## Planned Features:
-- Preventing Hacking/Cheating with a custom script on a AWS Server that scans for adnormal behaviors.
+- Preventing Hacking/Cheating with a custom script on a AWS Server that scans for adnormal behaviors (now p2p support instead).
 - Multiplayer over WiFi (Mostly finished although needs alot of ironing around the edges).
 
 ## Requirements:
