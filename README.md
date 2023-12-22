@@ -26,7 +26,6 @@
 **Notice: This is NOT a download (dummy links for now).**
 
 ## Notes:
-- **Might switch to a "p2p" aproach (depending on AWS or Replit Costs).**
 - **May delay clients/servers into one.**
 
 ### Credits:
