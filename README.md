@@ -15,6 +15,7 @@
 ### Will mods from the UniStore Work?
 - Yes, this shouldn't affect peoples' ability to play Mods such as Farland World Generation, Amplified World Generation.
 - It also shouldn't interfere with Server *.json Mods, like Nuclear Creepers, Bat Bombs, or Sheeptastic.
+- Client sided mods, like the "Gun Mod" or Parts of "TNT Mimics" will not Work over the Network, and need to be installed for each person.
 
 ## Requirements:
 - Hacked/Modfied/Homebrewed [New Nintendo 3DS](https://en.wikipedia.org/wiki/New_Nintendo_3DS) (Any "New" Reversion) Console with [Luma3DS CFW](https://github.com/LumaTeam/Luma3DS) 11.0+.
