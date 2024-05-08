@@ -2,16 +2,19 @@
 ### Previsously Known as: "Minecraft-3DS-Multiplayer-Update"
 
 # MC3DS Multiplayer Mod
-- [Star](https://github.com/Cracko298/Minecraft-3DS-Multiplayer-Update/stargazers), and (possibly) [Fork](https://github.com/Cracko298/Minecraft-3DS-Multiplayer-Update/fork) this repo to stay up-to-date on my Multiplayer Update for MC-3DS.
-- This really isn't a "Mod" rather just reading and transferring packets to and from LAN Connections using a few Tools + Custom-Scripts/Launchers.
-- It captures 3DS LAN Packets via CTRPF 3GX, and Transfers them over WiFi a "Client Software". will recieve the data, and Transfer it to another 3DS Console that has the same 3GX Plugin.
- 
 ## How does it work?
-- Clients will take that information and broadcast it over the network and then relays it back to the Server.
+1. A .3gx Plugin will be installed on the Host system and on the client system.
+2. The .3gx plugin will read regions in memory, and patch in a second player in Singleplayer, via data sent to the .3gx Plugin.
+3. The host and client Plugin send data too a connected PC, which will in turn transfer Data to the Other Computer.
+4. This sends information to the 3DS Console, which will patch the memory region within MC3DS.
 
-## Planned Features:
-- Preventing Hacking/Cheating with a custom script on a AWS Server that scans for adnormal behaviors (now p2p support instead).
-- Multiplayer over WiFi (Mostly finished although needs alot of ironing around the edges).
+## FaQ:
+### How will cheating be handeled?
+- Cheating is never fun, especially when joining friends or Random people.
+- The .3gx and the Client Scripts have anti-cheat and packet tampering capabilities.
+### Will mods from the UniStore Work?
+- Yes, this shouldn't affect peoples' ability to play Mods such as Farland World Generation, Amplified World Generation.
+- It also shouldn't interfere with Server *.json Mods, like Nuclear Creepers, Bat Bombs, or Sheeptastic.
 
 ## Requirements:
 - Hacked/Modfied/Homebrewed [New Nintendo 3DS](https://en.wikipedia.org/wiki/New_Nintendo_3DS) (Any "New" Reversion) Console with [Luma3DS CFW](https://github.com/LumaTeam/Luma3DS) 11.0+.
@@ -26,9 +29,6 @@
 - **Server-Side [Download]() (If you would like to Host the server from your own console).**
 
 **Notice: This is NOT a download (dummy links for now).**
-
-## Notes:
-- **May delay clients/servers into one.**
 
 ### Credits:
 - **[@Cracko298](https://github.com/Cracko298) - Head/Lead Developer & Researcher.**
