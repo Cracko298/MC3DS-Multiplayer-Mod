@@ -1,7 +1,7 @@
 ## Very Early Encryption Alg has been Added to Repo.
+### Previsously Known as: "Minecraft-3DS-Multiplayer-Update"
 
-
-# Minecraft-3DS-Multiplayer-Update
+# MC3DS Multiplayer Mod
 - [Star](https://github.com/Cracko298/Minecraft-3DS-Multiplayer-Update/stargazers), and (possibly) [Fork](https://github.com/Cracko298/Minecraft-3DS-Multiplayer-Update/fork) this repo to stay up-to-date on my Multiplayer Update for MC-3DS.
 - This really isn't a "Mod" rather just reading and transferring packets to and from LAN Connections using a few Tools + Custom-Scripts/Launchers.
 - It captures 3DS LAN Packets via CTRPF 3GX, and Transfers them over WiFi a "Client Software". will recieve the data, and Transfer it to another 3DS Console that has the same 3GX Plugin.
