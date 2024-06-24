@@ -1,9 +1,12 @@
 import subprocess, os, socket, requests
 
+crypt_path = 'crypt.exe'
+
 if os.path.basename(__file__) == "host.py":
-    keys_call = subprocess.run(['crypt.exe', 'generate_key'], capture_output=True)
+    keys_call = subprocess.run([crypt_path, 'generate_key'], capture_output=True)
     key = keys_call.stdout.decode('utf-8')
 else:
+    print(f'"{crypt_path}" not found')
     exit(1)
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
