@@ -2,7 +2,7 @@ import subprocess, os, socket, requests
 
 crypt_path = 'crypt.exe'
 
-if os.path.basename(__file__) == "host.py":
+if os.path.isfile(crypt_path):
     keys_call = subprocess.run([crypt_path, 'generate_key'], capture_output=True)
     key = keys_call.stdout.decode('utf-8')
 else:
