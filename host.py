@@ -1,7 +1,7 @@
 import subprocess, os, socket, requests
 
 if __name__ != "__main__":
-    print("This script is not meant to be used as a module")
+    print(f"{os.path.basename(__file__)} is not meant to be used as a module")
     exit(1)
 
 crypt_path = 'crypt.exe'
