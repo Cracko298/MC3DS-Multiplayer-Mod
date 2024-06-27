@@ -1,8 +1,12 @@
 import subprocess, os, socket, requests
 
+if __name__ != "__main__":
+    print(f"{os.path.basename(__file__)} is not meant to be used as a module")
+    exit(1)
+
 crypt_path = 'crypt.exe'
 
-if os.path.basename(__file__) == "host.py":
+if os.path.isfile(crypt_path):
     keys_call = subprocess.run([crypt_path, 'generate_key'], capture_output=True)
     key = keys_call.stdout.decode('utf-8')
 else:
