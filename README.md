@@ -1,3 +1,4 @@
+# This project has been ABANDONED.
 ## Very Early Encryption Alg has been Added to Repo.
 ### Previsously Known as: "Minecraft-3DS-Multiplayer-Update"
 
